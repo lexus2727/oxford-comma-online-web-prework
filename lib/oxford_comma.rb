@@ -5,3 +5,4 @@ end
 oxford_comma("kiwi")
 new_array = array.join("and")
 end
+oxford_comma("kiwi")
