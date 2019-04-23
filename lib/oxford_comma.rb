@@ -3,6 +3,6 @@ array = ["kiwi " , " durian"]
 new_array = array.join
 end
 oxford_comma("kiwi")
-new_array = array.join("and")
+array.join("and")
 end
 oxford_comma("kiwi")
